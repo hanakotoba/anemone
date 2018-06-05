@@ -1,0 +1,13 @@
+{
+  "name": "anemone",
+  "version": "0.0.1",
+  "description": "edgy and cocky for your flowers ^^",
+  "main": "index.js",
+  "repository": "https://github.com/hanakotoba/anemone.git",
+  "author": "ku?t <nani@omaewamoushindei.ru>",
+  "license": "MIT",
+  "workspaces": ["suisen", "ayame"],
+  "devDependencies": {
+    "oao": "^1.5.1"
+  }
+}
